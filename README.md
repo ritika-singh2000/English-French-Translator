@@ -9,6 +9,10 @@ This project could be practically used as a communication tool to help travelers
  - Performs text data cleaning such as removing punctuation and stop words , used tokenizer 
  - Performs tokenizing and padding on text corpus to feed the deep learning model
  - Builds and train the deep learning model
+ - Accuracy on validation set ~82%
+
+# Output
+<img align = "center"  src="https://github.com/ritika-singh2000/English-French-Translator/blob/master/Eng-to-french Output.png" > 
  
  
  
